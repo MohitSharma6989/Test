@@ -6,7 +6,7 @@ public class Programs {
 		// TODO Auto-generated method stub
                int i=0;//
                int z=0;
-               int c=0;
+               
 	}
 
 }
